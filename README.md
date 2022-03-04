@@ -1,7 +1,7 @@
 # Image classification service using Django and Keras!
 
 **Installation**: <br>
-If you want to see how the service works, you can just download the code as .zip and install requirements.txt
+If you want to see how the service works, you can just download the code as .zip or "git clone https://github.com/maagauiya/ADV_ADV.git" and install requirements.txt
 
 ###### **Note that you should add tenserflow-cpu in order to get <500mb
 
