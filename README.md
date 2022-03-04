@@ -1,11 +1,11 @@
 # Image classification service using Django and Keras!
 
--Installation:
+-Installation: <br>
 If you want to see how the service works, you can just download the code as .zip and install requirements.txt
 
 <br>
 
--Usage:
+-Usage: <br>
 We deployed our service to heroku, so there you just upload the image and the service gives you back the answer that he thinks is more appropriate.
 
 <br>
